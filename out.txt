@@ -1,0 +1,153 @@
+SPC    1600-015089-0699                                                 X
+DESC   M6X1.0X75MM HEX FLANGE CAP SCREW, GRADE 8.8, ORGANIC ZINC FLAKE SILVERX
+DESC1                                                                   X
+CUST   P040-01                                                          X
+BWGT                                                                    X
+FWGT                                                                    X
+REV    01-REL                                                           X
+PT     7520493                                                          X
+RAW    1038-RM4156-0000                                                 X
+RDESC                                                                   X
+DRAW   DRAW TO .228                                                     X
+OPCD1                                                                   X
+INST1                                                                   X
+VEND1                                                                   X
+OPCD2                                                                   X
+INST2                                                                   X
+VEND2                                                                   X
+OPCD3                                                                   X
+INST3                                                                   X
+VEND3                                                                   X
+OPCD4                                                                   X
+INST4                                                                   X
+VEND4                                                                   X
+OPCD5                                                                   X
+INST5                                                                   X
+VEND5                                                                   X
+OPCD6                                                                   X
+INST6                                                                   X
+VEND6                                                                   X
+ROLD1                                                                   X
+ROLM1                                                                   X
+ROLR1                                                                   X
+ROLD2                                                                   X
+ROLM2                                                                   X
+ROLR2                                                                   X
+ROLD3                                                                   X
+ROLM3                                                                   X
+ROLR3                                                                   X
+HEAD1                                                                   X
+HEAM1                                                                   X
+HEAR1                                                                   X
+HEAD2                                                                   X
+HEAM2                                                                   X
+HEAR2                                                                   X
+HEAD3                                                                   X
+HEAM3                                                                   X
+HEAR3                                                                   X
+SPC    9900-120002-0100                                                 X
+DESC   .410X1.386 O.A. CRANKSHAFT EXTENSION, C1010 STEEL, PLAIN FINISH  X
+DESC1                                                                   X
+CUST   T033-01                                                          X
+BWGT                                                                    X
+FWGT                                                                    X
+REV    A                                                                X
+PT     400-10060                                                        X
+RAW    1010-RM4540-0000                                                 X
+RDESC                                                                   X
+DRAW   DRAW TO .610                                                     X
+OPCD1                                                                   X
+INST1                                                                   X
+VEND1                                                                   X
+OPCD2                                                                   X
+INST2                                                                   X
+VEND2                                                                   X
+OPCD3                                                                   X
+INST3                                                                   X
+VEND3                                                                   X
+OPCD4                                                                   X
+INST4                                                                   X
+VEND4                                                                   X
+OPCD5                                                                   X
+INST5                                                                   X
+VEND5                                                                   X
+OPCD6                                                                   X
+INST6                                                                   X
+VEND6                                                                   X
+ROLD1                                                                   X
+ROLM1                                                                   X
+ROLR1                                                                   X
+ROLD2                                                                   X
+ROLM2                                                                   X
+ROLR2                                                                   X
+ROLD3                                                                   X
+ROLM3                                                                   X
+ROLR3                                                                   X
+HEAD1                                                                   X
+HEAM1                                                                   X
+HEAR1                                                                   X
+HEAD2                                                                   X
+HEAM2                                                                   X
+HEAR2                                                                   X
+HEAD3                                                                   X
+HEAM3                                                                   X
+HEAR3                                                                   X
+SPC    9900-120002-0100                                                 X
+DESC   .410X1.386 O.A. CRANKSHAFT EXTENSION, C1010 STEEL, PLAIN FINISH  X
+DESC1                                                                   X
+CUST   T033-01                                                          X
+BWGT                                                                    X
+FWGT                                                                    X
+REV    A                                                                X
+PT     400-10060                                                        X
+RAW    1010-RM4540-0000                                                 X
+RDESC                                                                   X
+DRAW   DRAW TO .610                                                     X
+OPCD1                                                                   X
+INST1                                                                   X
+VEND1                                                                   X
+OPCD2                                                                   X
+INST2                                                                   X
+VEND2                                                                   X
+OPCD3                                                                   X
+INST3                                                                   X
+VEND3                                                                   X
+OPCD4                                                                   X
+INST4                                                                   X
+VEND4                                                                   X
+OPCD5                                                                   X
+INST5                                                                   X
+VEND5                                                                   X
+OPCD6                                                                   X
+INST6                                                                   X
+VEND6                                                                   X
+ROLD1                                                                   X
+ROLM1                                                                   X
+ROLR1                                                                   X
+ROLD2                                                                   X
+ROLM2                                                                   X
+ROLR2                                                                   X
+ROLD3                                                                   X
+ROLM3                                                                   X
+ROLR3                                                                   X
+HEAD1                                                                   X
+HEAM1                                                                   X
+HEAR1                                                                   X
+HEAD2                                                                   X
+HEAM2                                                                   X
+HEAR2                                                                   X
+HEAD3                                                                   X
+HEAM3                                                                   X
+HEAR3                                                                   X
+ � �s �# USE PIN 1100-27-0954000000034Arialg h  �$n��G@����s5@                Q�^�*�L@����s5@                �$n��G@=�<��+6@                Q�^�*�L@=�<��+6@                i � H
+SPC    9900-120002-0100                                                 X
+DESC   .410X1.386 O.A. CRANKSHAFT EXTENSION, C1010 STEEL, PLAIN FINISH  X
+DESC1                                                                   X
+CUST   T033-01                                                          X
+BWGT                                                                    X
+FWGT                                                                    X
+REV    A                                                                X
+PT     400-10060                                                        X
+RAW    1010-RM4540-0000                                                 X
+RDESC                                                                   X
+DRAW   DRAW TO .610                   
